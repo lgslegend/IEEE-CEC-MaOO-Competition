@@ -1,0 +1,3 @@
+d , eps(BFNW) , eps(IBEA) , eps(NSGAII) , eps(SMSEMOA) , eps(SPEA2), eps(AGE2), eps(AGE3), eps(SteadyStateMOCMA), eps(MOCMA), eps(NSGAIII) , eps(NSGAIIIAlternate) , eps(PAES), eps(SMPSO)
+6 , 0.0 , 0.0 , 0.0 , 0.0 , 0.0 , 0.0 , 0.0 , 0.36289432207777866 , 0.0 , 0.0 , 0.0 , 0.0 , 0.0
+12 , 0.0 , 0.0 , 0.0 , 0.0 , 0.0 , 0.0 , 0.0 , 1.0128953303004287 , 0.0 , 0.0 , 0.0 , 0.0 , 0.0
